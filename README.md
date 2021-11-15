@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VARUNA GM 
+- 👋 Hi, I’m VARUNA GM 
 - 🌱 I’m currently learning Machine learning with python,Deep learning with python
 - 📫 How to reach me www.linkedin.com/in/varuna-g-m-54ab11172
 
