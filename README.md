@@ -1,4 +1,6 @@
-- 👋 Hi, I’m VARUNA GM 
+- 👋 Hi, I’m VARUNA GM
+- Detail-focused Data Analyst with knowledge in data warehousing, process validation and business needs analysis. Proven to understand
+customer requirements and translate into actionable project plans. Dedicated and hard-working with passion for Big Data.
 - 🌱 I’m currently learning Machine learning with python,Deep learning with python
 - 📫 How to reach me www.linkedin.com/in/varuna-g-m-54ab11172
 
